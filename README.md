@@ -1,4 +1,4 @@
-# UTS3_Bisnis\Elektronik
+# UTS3_BisnisElektronik
 
 
 | Nama  | Kelas |
